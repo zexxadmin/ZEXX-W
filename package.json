@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "maher-zubair-baileys": "^6.6.5",
+    "winston": "^3.14.2"
+  }
+}
